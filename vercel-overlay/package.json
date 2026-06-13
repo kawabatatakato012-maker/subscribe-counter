@@ -1,0 +1,10 @@
+{
+  "name": "subscribe-counter-overlay",
+  "version": "1.0.0",
+  "scripts": {
+    "bridge": "node bridge.js"
+  },
+  "dependencies": {
+    "ws": "^8.16.0"
+  }
+}
